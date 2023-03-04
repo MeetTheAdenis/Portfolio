@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Apricus Boutique",
+    "image": "./projectImages/bike.png",
+    "technologies": "Wordpress | HTML | JS | PHP",
+    "description": "Apricus Boutique is a fashion store that offers a wide range of stylish and luxurious clothing etc. On the website, visitors will find a stunning collection of clothing, shoes, handbags, and accessories from some of the world's top designers. The website is designed to be easy to navigate, with detailed descriptions of each product and high-quality images that showcase the products in all their glory. Visit Apricus today to discover the boutique's stunning collection and experience the same exceptional service that its customers have come to expect.",
+    "github": "https://github.com/MeetTheAdenis/",
+    "deployed": "https://apricus-boutique.com/",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "Shala Pflasterbau GmbH",
+    "image": "./projectImages/weather.png",
+    "technologies": "Wordpress | HTML | CSS | JS",
+    "description": " Shala Pflasterbau GmbH is a company that specializes in providing high-quality paving services to customers across the Germany. With a commitment to excellence and a passion for creating beautiful outdoor spaces, the company has established itself as a trusted name in the industry. To better serve its customers, Shala Gmbh recently launched a new website, www.abedinshala-pflasterbau.com. The website is designed to provide customers with easy access to information about the company's services.",
+    "github": "https://github.com/MeetTheAdenis/",
+    "deployed": "https://abedinshala-pflasterbau.com/",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "Eden Flooring",
+    "image": "./projectImages/team.png",
+    "technologies": "Wordpress | HTML | CSS | JS",
+    "description": "Eden Flooring is a trusted name in the flooring industry, providing exceptional flooring solutions for homeowners and businesses alike. The company prides itself on offering a wide range of flooring options, from traditional hardwood and tile to materials like laminate and vinyl. The reason that Eden  is able to offer such a diverse range of flooring options is its partnerships with top manufacturers like Egger and Peli laminat. The company's expert team is always on hand to provide advice, helping customers choose the best flooring options for their needs and budget.",
+    "github": "https://github.com/MeetTheAdenis/",
+    "deployed": "https://drive.google.com/file/d/1_atUXTM-L9r4NccsrPaaWqPyNu37ftwH/view",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "Arra Creative Studio",
+    "image": "./projectImages/quiz.png",
+    "technologies": "Wordpress | HTML | JS | CSS | PHP",
+    "description": "Arra Creative Studio is a digital marketing agency that specializes in custom solutions for businesses looking to establish a strong online presence. The agency's team of experts provides a range of digital marketing services, including SEO, social media marketing, email marketing, and content marketing, tailored to each client's unique needs and goals.",
+    "github": "https://github.com/MeetTheAdenis/",
+    "deployed": "https://arracreativestudio.com/",
+    "bgcolor": "#f85781",
+    "id": "4"
+  },
+
+  {
+    "title": "A&L Project",
+    "image": "./projectImages/P1.png",
+    "description": "A&L Project is a leading engineering solutions company that provides customized services to a range of industries, from concept and design to installation and maintenance. The company's team of experienced engineers and technicians offer a full suite of services tailored to each client's specific needs and goals. Contact the company today to learn more about its services and how it can help your business succeed.",
+    "technologies": "Wordpress | HTML | JS",
+    "github": "https://github.com/MeetTheAdenis/",
+    "deployed": "https://alproject-ks.com/",
+    "bgcolor": "#ffcc33",
+    "id": "1"
+  },
+
+  {
+    "title": "ATC Kosova",
+    "image": "./projectImages/planner.png",
+    "technologies": "JS | PHP | HTML | CSS",
+    "description": "ATC Kosova is a trusted accounting firm that provides comprehensive financial services to businesses of all sizes. The company's team of experienced accountants and financial experts offer a range of services, including bookkeeping, tax preparation, financial planning, and more. ATC Kosova is committed to providing personalized and efficient services to help clients meet their financial goals.",
+    "github": "https://github.com/MeetTheAdenis/",
+    "deployed": "https://atckosova.com/",
+    "bgcolor": "#3e67ff",
+    "id": "6"
+  }
+]
