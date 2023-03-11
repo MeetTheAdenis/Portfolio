@@ -1,14 +1,5 @@
 <a name="readme-top"></a>
 
-  <!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
   <!-- PROJECT LOGO -->
 
   <br />
@@ -70,15 +61,7 @@ This portfolio application was built using React and is designed to showcase my 
   
   ## About The Project
   
-  ### Photos
   
-  [![My React Portfolio Screen Shot][product-screenshot]](https://michaelyeates.co.uk)
-
-[![My React Portfolio Screen Shot][product-screenshot2]](https://michaelyeates.co.uk)
-
-[![My React Portfolio Screen Shot][product-screenshot3]](https://michaelyeates.co.uk)
-
-[![My React Portfolio Screen Shot][product-screenshot4]](https://michaelyeates.co.uk)
 
   <p align="right"><a href="#readme-top">back to top</a></p>
   
@@ -111,7 +94,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/mdyeates/my-portfolio.git
+   git clone https://github.com/MeetTheAdenis/Portfolio
    ```
 2. Install NPM packages
    ```sh
@@ -127,13 +110,6 @@ To get a local copy up and running follow these simple example steps.
   
   - As demonstrated in the photos below, this application is designed to be responsive and adjust seamlessly to fit various screen sizes
   
-    [![Responsiveness Screenshot][responsive-screenshot]](https://michaelyeates.co.uk)
-    
-    [![Responsiveness Screenshot][responsive-screenshot2]](https://michaelyeates.co.uk)
-
-    [![Responsiveness Screenshot][responsive-screenshot3]](https://michaelyeates.co.uk)
-
-    [![Responsiveness Screenshot][responsive-screenshot4]](https://michaelyeates.co.uk)
 
   <p align="right"><a href="#readme-top">back to top</a></p>
 
@@ -156,18 +132,18 @@ If you have any inquiries, don't hesitate to reach out to me via socials or by s
 
   <p align="right"><a href="#readme-top">back to top</a></p>
   
+## Deploy
+
+1.If you want to DEPLOY, run this: npm run build
+2.Then the Build file go and zip. Then upload the Build.zip nside public_html in ur host then unzip inside /public_html/
+
+
+
+  <p align="right"><a href="#readme-top">back to top</a></p>
   
 
   <!-- UPDATE PLACEHOLDER IMAGES HERE -->
 
-[product-screenshot]: src/images/screenshot.png
-[product-screenshot2]: src/images/screenshot2.png
-[product-screenshot3]: src/images/screenshot3.png
-[product-screenshot4]: src/images/screenshot4.png
-[responsive-screenshot]: src/images/mobile-screenshot.png
-[responsive-screenshot2]: src/images/mobile-screenshot2.png
-[responsive-screenshot3]: src/images/mobile-screenshot3.png
-[responsive-screenshot4]: src/images/mobile-screenshot4.png
 
 <!-- If you want to DEPLOY, run this: npm run build -->
 <!-- Then the Build file go and zip. Then upload the Build.zip nside public_html in ur host then unzip inside /public_html/-->
